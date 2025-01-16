@@ -33,3 +33,5 @@ GCLOUD_SERVICE_KEY          => Credentials gcloud
 GCP_PROJECT_ID              => Id GCP Project
 ```
 _GCLOUD_SERVICE_KEY credentials ini didapat dari manifest/terraform/core/cloud-run-deployer.json setelah deploy infratructure cloud run ([link](https://gitlab.com/fitraelbi/mobile-banking-v3/-/tree/main/manifest/terraform/core?ref_type=heads))._
+
+## TRY sync github-gitlab
